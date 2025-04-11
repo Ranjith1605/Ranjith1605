@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Ranjith1605
+# 👋 Hey there, I’m Ranjith Ramadass
 
 🧠 A curious mind fueled by creativity, code, and cosmic questions.
 
