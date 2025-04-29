@@ -1,29 +1,29 @@
-# 👋 Hey there, I’m Ranjith Ramadass
+# 👋 Hey there, I’m Ranjith Ramadass 
 
 🧠 A curious mind fueled by creativity, code, and cosmic questions.
 
 ---
 
 ### 👀 Interests
-- 🤖 Artificial Intelligence & Human-AI collaboration  
-- 🚀 Futuristic tech: smart glasses, flying cars, smart cities, and next-gen interfaces  
-- ⚽ Football enthusiast with a soft spot for tactical breakdowns  
-- 📜 Deep dives into Tamil history & untold cultural narratives  
+- 🤖 Artificial Intelligence-Business Intelligence & Human-AI collaboration  
+- 🚀 Futuristic tech: smart glasses, flying cars, smart cities in Mars, and next-gen interfaces  
+- ⚽ Football enthusiast with a soft spot for tactical breakdowns (BVB) Dortmund forever 
+- 📜 Deep dives into Tamil history & untold cultural narratives 
 
 ---
 
 ### 🌱 Currently Learning
-- AI system design, prompt engineering, and ethical frameworks  
-- Python, backend architecture & building my own Jarvis  
-- Cyberpunk-inspired web design (because style matters 🕶️)
+- AI system design, Business devlopment, prompt engineering, Leadership, Future-Tech and ethical frameworks  
+- Python, C++, backend architecture & building my own Jarvis  
+- Cyberpunk-inspired web designs UI/UX Designs (because style matters 🕶️)
 
 ---
 
 ### 💬 Looking to Collaborate On
-- AI-powered personal assistants  
-- Creative interfaces blending tech + culture  
-- Research projects on the EU AI Act, ethical AI, or innovation policy  
-- Anything that needs storytelling *and* system thinking  
+- AI-powered personal assistants(i.e AI Agents, AI Tools etc)
+- Creative interfaces blending tech + culture to create Enlightened Peaceful Civilisation. /alterego 
+- Research projects on the Development of rural Areas,EU AI Act, ethical AI, or innovation policy  
+- Anything that needs storytelling *and* system thinking (out-of-the-box)
 
 ---
 
