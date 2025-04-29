@@ -6,7 +6,7 @@
 
 ### 👀 Interests
 - 🤖 Artificial Intelligence & Human-AI collaboration  
-- 🚀 Futuristic tech: flying cars, smart cities, and next-gen interfaces  
+- 🚀 Futuristic tech: smart glasses, flying cars, smart cities, and next-gen interfaces  
 - ⚽ Football enthusiast with a soft spot for tactical breakdowns  
 - 📜 Deep dives into Tamil history & untold cultural narratives  
 
