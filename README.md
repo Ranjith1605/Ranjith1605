@@ -21,9 +21,10 @@
 
 ### 💬 Looking to Collaborate On
 - AI-powered personal assistants(i.e AI Agents, AI Tools etc)
-- Creative interfaces blending tech + culture to create Enlightened Peaceful Civilisation. /alterego 
+- Creative interfaces blending tech + culture to create Enlightened Peaceful Civilisation. 
 - Research projects on the Development of rural Areas,EU AI Act, ethical AI, or innovation policy  
-- Anything that needs storytelling *and* system thinking (out-of-the-box)
+- Apple Vision Pro dev teams or indie AR studios (like 8th Wall, Magic Leap devs, or VerseWorks)
+
 
 ---
 
