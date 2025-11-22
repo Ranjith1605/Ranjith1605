@@ -1,49 +1,30 @@
-# 👋 Hey there, I’m Ranjith Ramadass 
+👋 Hey, I’m Ranjith Ramadass
 
-🧠 A curious mind fueled by creativity, code, and cosmic questions.
+🧠 Developer, designer, and daydreamer engineering the bridge between humans and intelligent systems.
 
-🌱 Currently Building
+🚧 What I’m Building
+CipherPolice – AI-powered browser security & digital protection
+EcoHero – gamified sustainability tracker for smarter living
+LensAI – personal AI lens for understanding the world in real time
+visionOS Experiments – AR interfaces for smart glasses
+Super-Intelligent OS – my long-term mission: a human-aligned AI operating system
 
-📱 Android Apps → experimenting with AI-powered tools on mobile
+🔥 What I Explore
+AI × Thirukkural — teaching intelligence ancient wisdom
+Human–AI collaboration
+Futuristic mobility, flying cars, Mars habitats
+Cyberpunk UI/UX with culture + storytelling
 
-👓 Exploring visionOS → next-gen OS for AR + smart glasses
+🤝 Open to Collaborate On
+Android & visionOS apps
+AI agents & assistants
+Next-gen interface design
+Creative tech with purpose
 
-🛠️ AI Assistants & Agents → personalized Jarvis-style systems
+📫 Reach Me
+Email: 007ranjithr.v@gmail.com
+LinkedIn: www.linkedin.com/in/ranjith-ramadass-1591a819a
 
-🎨 Cyberpunk-inspired UI/UX → interfaces with culture & style
-
-----
-👀 Interests___
-
-🤖 AI x Business Intelligence | Human-AI collaboration
-
-
-🚀 Future tech → smart glasses, flying cars, Mars cities
-
-⚽ Football tactics → BVB Dortmund
-
-📜 Tamil history & cultural storytelling
-
-🤝 Open to Collaborate With
-
-👩‍💻 Android & visionOS devs
-
-🎨 Designers shaping next-gen interfaces
-
-🚀 Creators building futuristic, AI-driven experiences
-
----
-
-📫 Reach Me___
-
-📧 007ranjithr.v@gmail.com
-💼 LinkedIn
-
-### ⚡ Fun Fact___
-I see tech not just as a tool — but as an extension of *imagination*. I believe AI should stand *with* humanity, not above it.  
-Oh, and I’ve probably overthought the *1899* series more than anyone you know. 🧩
-
----
-
-> 🪐 “The future belongs to those who design it — not just dream it.”
-
+⚡ Fun Fact
+I see tech as an extension of imagination — a tool to reshape the world responsibly.
+And yes… I still think about 1899 more than I should. 🧩
