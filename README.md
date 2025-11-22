@@ -2,12 +2,12 @@
 
 🧠 Developer, designer, and daydreamer engineering the bridge between humans and intelligent systems.
 
-🚧 What I’m Building
-CipherPolice – AI-powered browser security & digital protection
-EcoHero – gamified sustainability tracker for smarter living
-LensAI – personal AI lens for understanding the world in real time
-visionOS Experiments – AR interfaces for smart glasses
-Super-Intelligent OS – my long-term mission: a human-aligned AI operating system
+🚧 Building
+- CipherPolice: AI browser security
+- EcoHero: Gamified sustainability tracker
+- LensAI: Personal AI lens in real time
+- visionOS Experiments: AR for smart glasses
+- Super-Intelligent OS: Human-aligned AI
 
 🔥 What I Explore
 AI × Thirukkural — teaching intelligence ancient wisdom
